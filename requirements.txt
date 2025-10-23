@@ -1,0 +1,7 @@
+# Backend
+Flask
+flask-socketio
+python-engineio
+python-socketio
+
+# Frontend (see frontend/package.json)

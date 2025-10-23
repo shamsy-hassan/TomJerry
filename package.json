@@ -1,0 +1,15 @@
+{
+  "name": "tom-and-jerry-chase",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "frontend",
+    "backend"
+  ],
+  "description": "Tom & Jerry: The Web Chase Game - Fullstack Project",
+  "author": "Shamsy Hassan",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0"
+  }
+}

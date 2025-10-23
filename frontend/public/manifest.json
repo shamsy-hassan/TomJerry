@@ -1,0 +1,21 @@
+{
+  "name": "Tom & Jerry Chase Game",
+  "short_name": "TomJerryChase",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#222",
+  "theme_color": "#222",
+  "description": "A fast, fun, cartoon-style Tom & Jerry chase game. Play instantly!",
+  "icons": [
+    {
+      "src": "/assets/icons/tom-icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/icons/jerry-icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
