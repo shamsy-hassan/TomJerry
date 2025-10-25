@@ -1,3 +1,4 @@
+// frontend/src/utils/api.js
 // HTTP client wrapper for game API
 const BASE_URL = '/api';
 
